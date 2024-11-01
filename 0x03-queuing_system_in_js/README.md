@@ -1,7 +1,7 @@
 0x03. Queuing System in JS
 ==========================
 
-Back-endJavaScriptES6RedisNodeJSExpressJSKue
+Back-end JavaScript ES6 Redis NodeJS ExpressJS Kue
 
 -   By: Johann Kerbrat, Engineering Manager at Uber Works
 -   Weight: 1
